@@ -8,10 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vrajesh-works&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Vrajesh-works?style=for-the-badge&logo=github&color=2c5364)
-![Repos](https://img.shields.io/badge/PUBLIC_REPOS-18-0f2027?style=for-the-badge&logo=git&logoColor=00d4ff)
-
 </div>
 
 ---
